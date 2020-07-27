@@ -8,12 +8,7 @@ source activate csm
 
 ## Download and install dependecies
 ```
-mkdir sources
-pip install -U pip
-pip download cupy==2.3.0
-tar -xf cupy-2.3.0.tar.gz
-cd cupy-2.3.0
-python setup.py install 
+pip install cupy-cuda80
 ```
 
 ## Download & clone the repo
