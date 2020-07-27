@@ -1,6 +1,6 @@
 name: csm 
 channels:
-  - pytorch=0.4
+  - pytorch
   - anaconda
   - defaults
 dependencies:
