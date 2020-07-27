@@ -152,7 +152,7 @@ dependencies:
     - testpath==0.4.2
     - torch==0.4.1
     - torchfile==0.1.0
-    - tps==0.2
+    - tps==0.0.2
     - tqdm==4.28.1
     - traitlets==4.3.2
     - urllib3==1.24.1
