@@ -92,7 +92,7 @@ dependencies:
   - pytorch=0.4.1=py27_cuda8.0.61_cudnn7.1.2_1
   - torchvision=0.2.1=py27_1
   - pip:
-    - cpython
+    - cython
     - backports.shutil-get-terminal-size==1.0.0
     - chardet==3.0.4
     - chumpy==0.68
