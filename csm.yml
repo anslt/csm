@@ -92,7 +92,6 @@ dependencies:
   - pytorch=0.4.1=py27_cuda8.0.61_cudnn7.1.2_1
   - torchvision=0.2.1=py27_1
   - pip:
-    - chainer==3.1.0
     - backports.shutil-get-terminal-size==1.0.0
     - chardet==3.0.4
     - chumpy==0.68
@@ -162,5 +161,6 @@ dependencies:
     - websocket-client==0.54.0
     - widgetsnbextension==3.4.2
     - yattag==1.10.1
+    - -r file:requirements.txt
 prefix: /home/csmteam/anaconda3/envs/csm
 
